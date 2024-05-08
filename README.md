@@ -3,8 +3,8 @@ Minha configuração do LazyVim
 
 ### Requisitos
 
-- Ter o NeoVim instalado
-- Usar Nerd fonts (Dependendo o terminal)
+- Ter o [NeoVim](https://github.com/neovim/neovim/blob/master/INSTALL.md) instalado
+- Usar [Nerd Fonts](https://www.nerdfonts.com/font-downloads) (Dependendo o terminal)
 
 # ⚠️  Atenção
 
