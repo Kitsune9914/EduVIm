@@ -19,4 +19,18 @@ mv ~/.local/state/nvim{,.bak}
 mv ~/.cache/nvim{,.bak}
 ```
 
+## Clone o repositorio
+
+**Linux/Mac OS**
+
+```sh
+git clone https://github.com/rafa-thayto/lazy-thayto-vim ~/.config/nvim
+```
+
+**Windows:**
+
+```sh
+git clone https://github.com/rafa-thayto/lazy-thayto-vim $env:LOCALAPPDATA\nvim
+```
+
 Aproveite minha configuração se gostar :)
