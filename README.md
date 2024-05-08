@@ -4,6 +4,7 @@ Minha configuração do LazyVim
 ### Requisitos
 
 - Ter o NeoVim instalado
+- Usar Nerd fonts (Dependendo o terminal)
 
 # ⚠️  Atenção
 
@@ -24,13 +25,15 @@ mv ~/.cache/nvim{,.bak}
 **Linux/Mac OS**
 
 ```sh
-git clone https://github.com/rafa-thayto/lazy-thayto-vim ~/.config/nvim
+git clone https://github.com/Kitsune9914/EduVIm.git ~/.config/nvim
 ```
 
 **Windows:**
 
 ```sh
-git clone https://github.com/rafa-thayto/lazy-thayto-vim $env:LOCALAPPDATA\nvim
+git clone https://github.com/Kitsune9914/EduVIm.git $env:LOCALAPPDATA\nvim
 ```
 
 Aproveite minha configuração se gostar :)
+
+[Flex Grid](https://github.com/neovim/neovim/blob/master/INSTALL.md)
