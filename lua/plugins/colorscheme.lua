@@ -1,10 +1,10 @@
 return {
-  { "mellow-theme/mellow.nvim" },
+  { "antonk52/lake.nvim" },
 
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "mellow",
+      colorscheme = "lake",
     },
   },
 }
