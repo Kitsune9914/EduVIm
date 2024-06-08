@@ -1,10 +1,10 @@
 return {
-  { "Mofiqul/vscode.nvim" },
+  { "rebelot/kanagawa.nvim" },
 
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "vscode",
+      colorscheme = "kanagawa",
     },
   },
 }

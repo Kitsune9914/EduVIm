@@ -23,11 +23,11 @@ return {
       },
       sections = {
         lualine_a = { "mode" },
-        lualine_b = { "branch", "diff", "diagnostics" },
-        lualine_c = { "filename", "filetype", "filesize" },
-        lualine_x = { "encoding", "fileformat" },
-        lualine_y = { "localio" },
-        lualine_z = { "location" },
+        lualine_b = { "filename" },
+        lualine_c = {},
+        lualine_x = {},
+        lualine_y = { "encoding", "fileformat", "filetype" },
+        lualine_z = { "branch" },
       },
       inactive_sections = {
         lualine_a = {},
